@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thejaswini
-- 👀 I’m interested in graphic design and cybersecurity!
+- 👀 Just another Engg undegrad...
 
 <!---
 ThejaswiniM02/ThejaswiniM02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
