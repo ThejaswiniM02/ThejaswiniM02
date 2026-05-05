@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thejaswini
-- 👀 Just another Engg undegrad...
+- 👀 Just another Engg undergrad...
 
 <!---
 ThejaswiniM02/ThejaswiniM02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
