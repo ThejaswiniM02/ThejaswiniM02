@@ -10,5 +10,5 @@ Lately I've been deep into LangGraph, RAG pipelines, and agentic AI.
 
 **Fun Facts:**
 - I love singing 🎵
-- I function better in cafes than anywhere else
+- I function better in cafes than anywhere else 
 - I once spent 120rs on a domain for a company that ghosted me 💀
